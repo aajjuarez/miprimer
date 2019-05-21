@@ -1,0 +1,2 @@
+# miprimer
+Comenzando con git
